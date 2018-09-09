@@ -35,8 +35,12 @@ body {
 .navbar-inverse {
   background-color: #512DA8; }
 
-  .modal-inverse-custom{
-    background-color: #512DA8;}
+.modal-inverse-custom{
+  background-color: #512DA8;}
+
+.modal-background-custom{
+  background-color: #d1c5e8;
+}  
 
 .tab-content {
   border-left: 1px solid #ddd;
